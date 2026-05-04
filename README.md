@@ -16,5 +16,4 @@ The goal of this project was to analyze retail sales data to identify key growth
 * **Growth Trajectory:** The business demonstrates a healthy upward trend, with **2017** showing peak performance in both sales and profit.
 * **Market Dominance:** The **West Region** and the **Consumer Segment** represent the largest portion of the business, contributing to over 50% of total revenue.
 
-<img width="1368" height="648" alt="superstore img" src="https://github.com/user-attachments/assets/46b01431-4500-4e29-9557-051268307f52" />
-
+Superstore_Sales_Dashboard.png
